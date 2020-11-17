@@ -1,0 +1,19 @@
+body {
+    background-color: #121212;
+}
+
+.root {
+    height: 100vh;
+    position: relative;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    grid-template-columns: auto 1fr;
+    grid-template-areas: "navbar main-view main-view" "player player player";
+}
+
+.nav-bar {
+    grid-area: navbar;
+    background-color: rgba(0, 0, 0,.8);
+    width: 230px;
+    flex: 1;
+}
