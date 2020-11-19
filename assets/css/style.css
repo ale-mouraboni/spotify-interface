@@ -4,11 +4,23 @@ body {
     background-color: #121212;
 }
 
-/* navbar */
-.nav-bar .navbar-nav .nav-item a:hover, .root-list-item:hover {
+a {
+    text-decoration: none !important;
+}
+
+.nav-bar .navbar-nav .nav-item a:hover, .root-list-item:hover, .play-list-scroll li a:hover {
     opacity: 1;
 }
 
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: hsla(0,0%,100%,.3);
+}
+
+/* navbar */
 .root {
     height: 100vh;
     position: relative;
@@ -107,4 +119,26 @@ body {
 
 .root-list-icon.heart {
     background: linear-gradient(135deg,#450af5,#c4efd9);
+}
+
+/* listing */
+.root-list-divider {
+    margin: 8px 24px;
+    background-color: #282828;
+    border: none;
+    height: 1px;
+}
+
+.play-list-scroll {
+    padding: 8px 24px !important;
+}
+
+.play-list-scroll li a {
+    color: #fff;
+    opacity: .6;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    height: 32px;
 }
