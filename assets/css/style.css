@@ -8,7 +8,12 @@ a {
     text-decoration: none !important;
 }
 
-.nav-bar .navbar-nav .nav-item a:hover, .root-list-item:hover, .play-list-scroll li a:hover {
+.nav-bar .navbar-nav
+.nav-item a:hover,
+.root-list-item:hover,
+.play-list-scroll li a:hover,
+.navbar-footer a:hover
+{
     opacity: 1;
 }
 
@@ -141,4 +146,15 @@ a {
     white-space: nowrap;
     display: block;
     height: 21px;
+}
+
+.navbar-footer {
+    background-color: #000;
+}
+
+.navbar-footer a {
+    padding: 9px 5px 24px 24px;
+    color: #fff;
+    opacity: .6;
+    height: 40px;
 }
