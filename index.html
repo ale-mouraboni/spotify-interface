@@ -20,6 +20,7 @@
 
 <body>
 
+    <!--navbar-->
     <div class="root">
         <nav class="nav-bar d-flex flex-column">
             <div class="nav-bar-header d-flex pl-4 pt-4 pb-4">
@@ -47,6 +48,7 @@
                 </li>
             </ul>
 
+            <!--playlist-->
             <div class="root-list d-flex flex-column mt-4">
                 <div class="root-list-header">
                     <h2>Playlist</h2>
@@ -69,6 +71,7 @@
 
                     <hr class="root-list-divider">
 
+                    <!--listing-->
                 </div>
 
                 <ul class="navbar-nav play-list-scroll overflow-auto">
@@ -138,15 +141,34 @@
 
         <div class="top-bar">
 
+            <!--topbar-->
             <header class="d-flex position-relative" id="header">
-                <div class="header-overlay">
-                    <div class="icons-action-left d-flex">
-                        <button class="d-flex justify-content-center align-items-center">
-                            <i class="fas fa-chevron-left"></i>
+                <div class="header-overlay"></div>
+                <div class="icons-action-left d-flex">
+                    <button class="d-flex justify-content-center align-items-center">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="d-flex justify-content-center align-items-center ml-3">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+
+                <div class="d-flex ml-auto">
+                    <button class="btn-upgrade">
+                        Faça Upgrade
+                    </button>
+                    <div class="dropdown menu ml-3">
+                        <button type="button" class="d-flex align-items-center" data-toggle="dropdown">
+                            <img class="avatar" src="assets/img/perfil.png" alt="Avatar Perfil">
+                            <span>Paulo Benedicto</span>
+                            <i class="fas fa-caret-down ml-2 mr-2"></i>
                         </button>
-                        <button class="d-flex justify-content-center align-items-center ml-3">
-                            <i class="fas fa-chevron-right"></i>
-                        </button>
+                        <div class="dropdown-menu mt-0 p-0">
+                            <a href="" class="dropdown-item">Conta</a>
+                            <a href="" class="dropdown-item">Perfil</a>
+                            <div class="dropdown-divider"></div>
+                            <a href="" class="dropdown-item">Sair</a>
+                        </div>
                     </div>
                 </div>
             </header>
