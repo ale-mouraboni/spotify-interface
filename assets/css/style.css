@@ -4,7 +4,7 @@ body {
     background-color: #121212;
 }
 
-a {
+a, button {
     text-decoration: none !important;
 }
 
@@ -397,4 +397,49 @@ footer .icon {
     padding-top: 22px;
     color: #fff;
     opacity: .6;
+    margin-bottom: 12px;
+}
+
+footer .icon:hover {
+    color: #fff;
+    opacity: .1;
+}
+
+footer .play {
+    width: 40px;
+    height: 40px;
+    font-size: 32px;
+}
+
+footer .player-center {
+    width: 100%;
+    max-width: 565px;
+}
+
+footer .player-center .player-center-controls {
+    max-width: 224px;
+    margin-bottom: 12px;
+    margin: 0 auto;
+}
+
+footer .progress-time {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: .015em;
+    min-width: 40px;
+    text-align: center;
+}
+
+footer .progress-bar, footer .progress {
+    background-color: #535353;
+    border-radius: 2px;
+    display: flex;
+    height: 4px;
+    width: 100%;
+}
+
+footer .progress {
+    background-color: #b3b3b3;
+    width: 20%;
 }
