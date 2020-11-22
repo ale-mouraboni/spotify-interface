@@ -4,7 +4,7 @@
 <img src="https://github.com/ale-mouraboni/spotify-interface/blob/main/assets/readme/spotify-interface-gif.gif">
   </p>
 
-<p align="center">Esse projeto foi desenvolvido durante o Bootcamp <strong>HTML Web Developer</strong> da plataforma <a href="https://digitalinnovation.one/">Digital Innovation One.</a></p>
+<p align="center">Esse projeto foi desenvolvido durante a playlist <strong>Clonando Interface do Spotify com Bootstrap 4</strong> do canal <a href="https://www.youtube.com/playlist?list=PLyLHegP66K0kKeAODlZ9Ivh7Mm9i1_326">Full Devs</a></p>
 </br>
 <h2><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji>  Tecnologias</h2>
 <p>Esse projeto foi desenvolvido usando as seguintes tecnologias:</p>
@@ -12,6 +12,7 @@
   <ul>
   <li> HTML5</li>
   <li> CSS3</li>
+  <li> Bootstrap </li>
   <li> JavaScript</li>
   </ul>
   
