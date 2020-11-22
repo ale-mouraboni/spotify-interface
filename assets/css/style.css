@@ -391,6 +391,7 @@ footer .text span {
     opacity: .6;
 }
 
+/* footer-player */
 footer .icon {
     width: 32px;
     height: 32px;
@@ -442,4 +443,9 @@ footer .progress-bar, footer .progress {
 footer .progress {
     background-color: #b3b3b3;
     width: 20%;
+}
+
+/* footer-volume */
+footer .volume-bar {
+    width: 84px;
 }
