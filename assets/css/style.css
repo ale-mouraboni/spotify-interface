@@ -361,3 +361,40 @@ button {
     color: #fff;
     opacity: .6;
 }
+
+/* footer */
+footer {
+    padding: 16px 16px;
+}
+
+footer .cover img {
+    max-width: 56px;
+    max-height: 56px;
+    border-radius: 7px;
+}
+
+footer .text label {
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: .015em;
+    color: #fff;
+    text-align: left;
+    padding-top: 10px;
+}
+
+footer .text span {
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: .015em;
+    text-align: left;
+    color: #fff;
+    opacity: .6;
+}
+
+footer .icon {
+    width: 32px;
+    height: 32px;
+    padding-top: 22px;
+    color: #fff;
+    opacity: .6;
+}
