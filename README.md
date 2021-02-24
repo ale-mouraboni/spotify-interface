@@ -1,6 +1,8 @@
-<h1 align="center">Clone Spotify</h1>
+<h1 align="center">Spotify Interface</h1>
 <p align="center">
-  <img src="assets/readme/spotify-interface-gif.gif">
+  
+  ![Primeira Página](readme/demo.png)
+
 </p>
 
 <p align="center">
@@ -8,22 +10,24 @@
 </p>
 
 <p align="center">
-  <a href="#technology">Tecnologias</a> | 
-  <a href="#c-utilizar">Como Utilizar</a> |
-  <a href="#about">About</a> |
-  <a href="#license">License</a> 
+   <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Como-Utilizar">Como Utilizar</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-About">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a> 
+</p>
 </p>
 
-<h2 id="technology">:globe_with_meridians: Tecnologias</h2>
+## :globe_with_meridians: Tecnologias
 <p>Projeto desenvolvido com as seguintes tecnologias:</p>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Bootstrap 4</li>
-  <li>JavaScript</li>
-</ul>
 
-<h2 id="c-utilizar">:wrench: Como Utilizar</h2>
+* HTML5
+* CSS3
+* JavaScript
+
+## :wrench: Como Utilizar
 
 ```
 #1 - Clone o repositório
@@ -32,14 +36,15 @@ $ git clone https://github.com/ale-mouraboni/spotify-interface.git
 #2 - Abra o index.html
 ```
 
-<h2 id="about">:heavy_check_mark: About</h2>
-<p>Esse projeto é um Clone da interface do Spotify.
+## :heavy_check_mark: About
+<p>Esse projeto é um clone da interface do Spotify.
 </br>
-Esse projeto foi desenvolvido com base no canal Full Devs (Clonando Interface do Spotify com Bootstrap 4).
-<h4>Responsive?</h4>
-[ ] Yes  [x] No
+Esse projeto foi desenvolvido com base no canal <strong>Full Devs (Clonando Interface do Spotify com Bootstrap 4)</strong>.
 </p>
 
-<h2 id="license">:memo: License</h2>
+### Responsive?
+[ ] Yes  [x] No
+
+## :memo: License
 <p>This project is under the MIT license. See the [LICENSE] for more information.
 </p>
