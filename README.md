@@ -31,7 +31,7 @@ Para ver o projeto você pode clonar ele com o seguinte comando:
 git clone https://github.com/ale-mouraboni/spotify-interface.git
 ```  
   
-Ou se preferir baixar o arquivo .zip do projeto basta clicar no botão abaixo.  
+Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
   
 [Baixar Projeto](https://github.com/ale-mouraboni/spotify-interface/archive/refs/heads/main.zip)
 
