@@ -9,21 +9,15 @@ Esse projeto é um clone da interface do Spotify, foi desenvolvido com Bootstrap
 
 </div>
 
----
-
 #### Link do Curso:
 
 * [Full Devs - Clonando Interface do Spotify com Bootstrap 4.](https://www.youtube.com/playlist?list=PLyLHegP66K0kKeAODlZ9Ivh7Mm9i1_326)
-
----
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * HTML5
 * CSS3
 * Bootstrap 4
 * JavaScript
-
----
 
 Para ver o projeto você pode clonar ele com o seguinte comando:    
 
@@ -33,7 +27,7 @@ git clone https://github.com/ale-mouraboni/spotify-interface.git
   
 Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
   
-[Baixar Projeto](https://github.com/ale-mouraboni/spotify-interface/archive/refs/heads/main.zip)
+* [Baixar Projeto](https://github.com/ale-mouraboni/spotify-interface/archive/refs/heads/main.zip)
 
 ---
 
