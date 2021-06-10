@@ -20,7 +20,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-![Demo](demo.gif)
+![Demo](github/demo.gif)
 
 ---
 
