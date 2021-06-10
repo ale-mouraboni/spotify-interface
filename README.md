@@ -1,5 +1,5 @@
 <h1 align="center">Spotify Interface</h1>
-<p align="center">A simple clone of the spotify interface developed in bootstrap 4. This project was developed during a playlist of the <strong>Full Devs</strong> channel.
+<p align="center">A simple clone of the Spotify interface developed in bootstrap 4. This project was developed during a playlist of the <strong>Full Devs</strong> channel.
 </br>
 <a href="https://www.youtube.com/playlist?list=PLyLHegP66K0kKeAODlZ9Ivh7Mm9i1_326">Access Playlist</a>
 </p>
